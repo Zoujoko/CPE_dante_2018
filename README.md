@@ -2,5 +2,6 @@
 Maze Generator and Maze Solver in C
 
 Usage:
-./generator [size x] [size y] [write perfect if you want a perfect maze and nothing if you don't want to]
-./solver map.txt
+make re
+./generator/generator [size x] [size y] [write perfect if you want a perfect maze and nothing if you don't want to]
+./solver/solver map.txt
